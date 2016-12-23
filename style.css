@@ -1,0 +1,33 @@
+body {
+  margin-top: 60px;
+}
+
+#top_pics img{
+  border-radius:10px;
+  margin:10px;
+}
+
+#social_links li,#top_pics li{
+  display:inline;
+  float:left;
+}
+#social_links{
+  font-size:30px;
+}
+
+#social_links img{
+  width:50px;
+  heigth:50px;
+  border-radius:10px;
+  margin:10px 20px 10px 10px
+}
+
+h1{
+  font-color:red;
+  background-color:#11aaee;
+  border-radius:20px;
+}
+
+#timeline{
+  font-size:30px;
+}
