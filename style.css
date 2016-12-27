@@ -1,33 +1,37 @@
 body {
-  margin-top: 60px;
+  margin-top: 5px !important;
+  background-color: #f55 !important;
 }
 
-#top_pics img{
-  border-radius:10px;
-  margin:10px;
+img{
+  border-radius:100px;
+  margin:5px;
 }
 
-#social_links li,#top_pics li{
+#social_links li,#top_pics li,#top_pics2 li{
   display:inline;
   float:left;
 }
 #social_links{
   font-size:30px;
+  color: #404;
 }
 
 #social_links img{
   width:50px;
-  heigth:50px;
+  height:50px;
   border-radius:10px;
   margin:10px 20px 10px 10px
 }
 
-h1{
-  font-color:red;
-  background-color:#11aaee;
+h1,h2{
+  color: #808 !important;
+  background-color:#bbb;
   border-radius:20px;
+  padding: 0 100 0 100;
 }
 
 #timeline{
-  font-size:30px;
+  font-size: 30px;
+  color: #c4c;
 }
