@@ -21,7 +21,7 @@ img{
   width:3vw;
   height:3vw;
   border-radius:25%;
-  margin:10px 20px 10px 10px
+  margin:1vw 1vw 1vw 1vw;
 }
 
 .top_pics img{
@@ -30,9 +30,10 @@ img{
 }
 h1,h2{
   color: #808 !important;
-  background-color:#bbb;
+  background-color:#d66;
   border-radius:2vw;
-  padding: 1vw 2vw 1vw 2vw;
+  padding: 1vw 1vw 1vw 1vw;
+  text-align:center;
 }
 h1{
     font-size:4vw !important;
@@ -53,4 +54,9 @@ h2{
 
 .container{
   margin:0.2vh 6.5vw 0.2vh 6.5vw !important;
+  overflow:hidden;
+}
+
+.jumbotron{
+  overflow:hidden;
 }
