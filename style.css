@@ -60,3 +60,9 @@ h2{
 .jumbotron{
   overflow:hidden;
 }
+
+abbr {
+  border-bottom: none !important;
+  cursor: inherit !important;
+  text-decoration: none !important;
+}
