@@ -8,11 +8,11 @@ img{
   margin:0.4vw;
 }
 
-#social_links li,.top_pics li{
+#social_links li,.top_pics li, #counter li{
   display:inline;
   float:left;
 }
-#social_links{
+#social_links, #counter{
   font-size:2.5vw;
   color: #404;
 }
